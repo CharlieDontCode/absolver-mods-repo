@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "id": "zero-weight-zero-stats",
+  "name": "Zero Weight But Zero Stats",
+  "version": "1.0",
+  "author": "CHRL1E",
+  "description": "Changed the stats of Absolver Plus's Equipments, isn't compatible any mods that edit the Equipment Datatable.",
+  "changelog": "First Release",
+  "download_url": "https://github.com/CharlieDontCode/absolver-mods-repo/releases/download/Mod/zero-weight-zero-stats.zip",
+  "sha256": "580c95516044d711a7330f38f8d04e025326984408f7ed77e47346db86cc3ca8",
+  "size": 234413,
+  "requires": [],
+  "incompatible_with": []
+}
