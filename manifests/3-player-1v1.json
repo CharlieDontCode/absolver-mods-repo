@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "id": "3-player-1v1",
+  "name": "3 Player 1v1 Match",
+  "version": "1.0.0",
+  "author": "CHRL1E",
+  "description": "Enables a third player in a 1v1 match",
+  "changelog": "First Release",
+  "download_url": "https://github.com/CharlieDontCode/absolver-mods-repo/releases/download/3-player-1v1-v1.0.0/3-player-1v1.zip",
+  "sha256": "a0ed64f93935796e92e7259ee10d978dd2bb1fef72376684f129281005c42fdc",
+  "size": 149401,
+  "requires": [],
+  "incompatible_with": []
+}
