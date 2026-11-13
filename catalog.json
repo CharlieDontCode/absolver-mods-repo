@@ -1,9 +1,32 @@
 {
   "name": "Modsolver Absolver mods + Charlie's mods",
   "mods": [
-    { "manifest_url": "https://raw.githubusercontent.com/d13J0KER/absolver-mods/main/manifests/hollow-mask.json" },
-    { "manifest_url": "https://raw.githubusercontent.com/d13J0KER/absolver-mods/main/manifests/absolver-plus.json" },
-    { "manifest_url": "https://raw.githubusercontent.com/d13J0KER/absolver-mods/main/manifests/tournament-maps.json" },
-    { "manifest_url": "https://raw.githubusercontent.com/CharlieDontCode/absolver-mods-repo/main/manifests/light-to-medium-sfx.json" }
-  ]
+    {
+      "manifest_url": "https://raw.githubusercontent.com/d13J0KER/absolver-mods/main/manifests/hollow-mask.json"
+    },
+    {
+      "manifest_url": "https://raw.githubusercontent.com/d13J0KER/absolver-mods/main/manifests/absolver-plus.json"
+    },
+    {
+      "manifest_url": "https://raw.githubusercontent.com/d13J0KER/absolver-mods/main/manifests/tournament-maps.json"
+    },
+    {
+      "manifest_url": "https://raw.githubusercontent.com/CharlieDontCode/absolver-mods-repo/main/manifests/light-to-medium-sfx.json"
+    },
+    {
+      "schema": 1,
+      "id": "zero-weight-zero-stats",
+      "name": "Zero Weight But Zero Stats",
+      "version": "1.0",
+      "author": "CHRL1E",
+      "description": "Changed the stats of Absolver Plus's Equipments, isn't compatible any mods that edit the Equipment Datatable.",
+      "changelog": "First Release",
+      "download_url": "https://github.com/CharlieDontCode/absolver-mods-repo/releases/download/zero-weight-zero-stats/zero-weight-zero-stats.zip",
+      "sha256": "00b7ec956993cbf1a240ff1e4a62f4e3823e177b1286a378c90b8049f2a71d4e",
+      "size": 234413,
+      "requires": [],
+      "incompatible_with": []
+    }
+  ],
+  "updated": "2026-11-13T18:14:27Z"
 }
