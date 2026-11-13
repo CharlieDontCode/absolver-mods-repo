@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "id": "no-ui",
+  "name": "No UI",
+  "version": "1.0.0",
+  "author": "Chinese Modders",
+  "description": "Removes persistent UI, may also disable the ESC UI",
+  "changelog": "First Release",
+  "download_url": "https://github.com/CharlieDontCode/absolver-mods-repo/releases/download/no-ui-v1.0.0/no-ui.zip",
+  "sha256": "c6006c39f506c3a085bd017ad68bce04e6737dcf49b0ba70fef13cb06a5e2f03",
+  "size": 156404,
+  "requires": [],
+  "incompatible_with": []
+}
