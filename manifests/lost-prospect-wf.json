@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "id": "lost-prospect-wf",
+  "name": "Lost Prospect Windfall",
+  "version": "1.0.0",
+  "author": "Numaks",
+  "description": "Replace Windfall animations with Lost Prospect's, attempted to fix manual dodge of LP (host dependent)",
+  "changelog": "First Release",
+  "download_url": "https://github.com/CharlieDontCode/absolver-mods-repo/releases/download/lost-prospect-wf-v1.0.0/lost-prospect-wf.zip",
+  "sha256": "720290d6a10c1511deb7cc6af6bb338e5a42b2490956cdc0cc6ccb0b45653ac7",
+  "size": 506614,
+  "requires": [],
+  "incompatible_with": []
+}
